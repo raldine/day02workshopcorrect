@@ -1,0 +1,4 @@
+*.classes
+*.txt
+classes/
+*.log
